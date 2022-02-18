@@ -1,0 +1,10 @@
+REFERENCES:
+
+https://create.arduino.cc/projecthub/babariyasmit/smart-parking-system-efa1a9
+
+
+
+https://github.com/anmspro/Smart-Car-Parking-System
+
+
+https://www.electroduino.com/smart-parking-system-project-using-arduino-and-ir-sensor/S
