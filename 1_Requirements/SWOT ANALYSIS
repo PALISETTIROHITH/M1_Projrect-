@@ -1,4 +1,4 @@
-# SWOT Analysis
+ ### SWOT Analysis
  S-> Strength
   
   * It is an automate application method ,so It will reduce the parking easily.
@@ -10,8 +10,8 @@ O-> Opportunities
   
   * It will Increase the company efficiency.
   * Requires some less conflits in parking etc...
-  
- ### T-> Threads
+   
+  ### T-> Threads
 
   * By using this automation process, sometimes system might get corrupt.
   * Provide false Information about the Customer.
