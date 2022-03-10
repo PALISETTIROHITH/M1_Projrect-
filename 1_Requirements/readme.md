@@ -7,10 +7,9 @@ Parking is the act of stopping and disengaging a vehicle and leaving it unoccupi
 Parking on one or both sides of a road is often permitted, though sometimes with restrictions.
 
 ### WHAT
-
-Add and maintain parking vehicle in parking area.
-Add and maintain car and scooter for parking.
-Add and maintain cost effective.
+ maintain parking vehicle in parking area.
+maintain car and scooter for parking.
+maintain cost effective.
 
 ### WHERE
 
