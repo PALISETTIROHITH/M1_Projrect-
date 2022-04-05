@@ -1,7 +1,3 @@
-/* Vehicle parking program */
-//THIS PROGRAM IS FROM CODE-PROJECTS//
-// THERE ARE SOME SMALL CHANES IN CODE //
-//FOR MORE PROJECTS LOG ON TO : www.code-projects.org//
 #include <stdio.h>
 #include <conio.h>
 #include <windows.h>
